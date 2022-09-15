@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "554485573386",
+    "project_id": "flutter-chat-app-aff22",
+    "storage_bucket": "flutter-chat-app-aff22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554485573386:android:0a9d5ac0a3377c43abbcf3",
+        "android_client_info": {
+          "package_name": "co.arnaldo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554485573386-tmq5d2ucoo2g8judp2vphn3e7g5gv4oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhC_t3FAan-jGh_nPIWVYwCUYOwY85RxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554485573386-tmq5d2ucoo2g8judp2vphn3e7g5gv4oc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554485573386-rcbpu8tpjf65fvp1p0jao6i0fasqpc8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.arnaldom.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554485573386:android:2007cb5bea32b841abbcf3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app_ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554485573386-tmq5d2ucoo2g8judp2vphn3e7g5gv4oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhC_t3FAan-jGh_nPIWVYwCUYOwY85RxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554485573386-tmq5d2ucoo2g8judp2vphn3e7g5gv4oc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554485573386-rcbpu8tpjf65fvp1p0jao6i0fasqpc8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.arnaldom.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
